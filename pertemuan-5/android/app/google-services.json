@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491014554970",
+    "project_id": "praktikum-pemmob-555fc",
+    "storage_bucket": "praktikum-pemmob-555fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491014554970:android:aade2e17aaacd4b2ac1f63",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_tugas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpN27CiCyjWwrnekqJme7K_XR4CNgVs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
