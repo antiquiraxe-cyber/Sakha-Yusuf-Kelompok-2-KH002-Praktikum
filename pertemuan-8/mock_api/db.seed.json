@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1524,
+      "name": "Sakha Yusuf Pasha",
+      "email": "sakha@practical.dev",
+      "city": "Bandung"
+    },
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "leanne@example.com",
+      "city": "Gwenborough"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "ervin@example.com",
+      "city": "Wisokyburgh"
+    }
+  ],
+  "admins": [
+    {
+      "id": 817,
+      "name": "Sakha Admin",
+      "email": "admin.sakha@practical.dev",
+      "department": "Information Technology"
+    },
+    {
+      "id": 1,
+      "name": "Admin Operasional",
+      "email": "admin1@practical.dev",
+      "department": "Operasional"
+    },
+    {
+      "id": 2,
+      "name": "Admin Keuangan",
+      "email": "admin2@practical.dev",
+      "department": "Keuangan"
+    }
+  ]
+}
